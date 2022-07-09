@@ -80,6 +80,13 @@ span {
   margin-top: 1rem;
 }
 .cart-img {
+  width: 100%;
+  height: 100%;
+  object-fit: contain;
+  padding: 10px;
+}
+.detail-box {
+  display: grid;
 }
 .section-title {
   font-size: 1.5rem;
